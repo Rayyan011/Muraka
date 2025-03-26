@@ -1,0 +1,21 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Band disease
+  1: Band-diseasemultiple
+  2: Bleached disease
+  3: Bleached disease Healthy Coral_multiple
+  4: Bleached disease White Pox Disease
+  5: Bleached-disease
+  6: Bleached-disease-White-Pox-Disea
+  7: Bleached-diseasemultiple
+  8: Bleached-diseasemultiple-Health
+  9: Dead Coral
+  10: Healthy Coral
+  11: Healthy-Coral
+  12: White Pox Disease
+  13: White-Pox-Disea
+  14: bleached_corals
+  15: bleachedcorals
